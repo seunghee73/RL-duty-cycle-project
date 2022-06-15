@@ -4,7 +4,7 @@
 
 [2021.11 한국통신학회 논문지(KCI) 게재](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10757062)  
 
-**기간** : 2021/12 ~ 2021/11  
+**기간** : 2020/12 ~ 2021/11  
 <p align="center">
  <img src="./README.assets/image-20220615213531209.png" width="60%"/>
 </p>
